@@ -1,0 +1,680 @@
+{
+    "FiberSim_batch":
+    {
+        "FiberCpp_exe":
+        {
+            "relative_to": "this_file",
+            "exe_file": "c:/ken/github/campbellmusclelab/models/fibersim/bin/FiberCpp.exe"
+        },
+        "job": [
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isometric\\pCa_80\\prot.txt",
+                "results_file": "sim_output\\isometric\\1\\pCa_80_results.txt",
+                "output_handler_file": "sim_input\\1\\isometric\\pCa_80\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isometric\\pCa_64\\prot.txt",
+                "results_file": "sim_output\\isometric\\1\\pCa_64_results.txt",
+                "output_handler_file": "sim_input\\1\\isometric\\pCa_64\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isometric\\pCa_62\\prot.txt",
+                "results_file": "sim_output\\isometric\\1\\pCa_62_results.txt",
+                "output_handler_file": "sim_input\\1\\isometric\\pCa_62\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isometric\\pCa_60\\prot.txt",
+                "results_file": "sim_output\\isometric\\1\\pCa_60_results.txt",
+                "output_handler_file": "sim_input\\1\\isometric\\pCa_60\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isometric\\pCa_58\\prot.txt",
+                "results_file": "sim_output\\isometric\\1\\pCa_58_results.txt",
+                "output_handler_file": "sim_input\\1\\isometric\\pCa_58\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isometric\\pCa_56\\prot.txt",
+                "results_file": "sim_output\\isometric\\1\\pCa_56_results.txt",
+                "output_handler_file": "sim_input\\1\\isometric\\pCa_56\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isometric\\pCa_54\\prot.txt",
+                "results_file": "sim_output\\isometric\\1\\pCa_54_results.txt",
+                "output_handler_file": "sim_input\\1\\isometric\\pCa_54\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isometric\\pCa_52\\prot.txt",
+                "results_file": "sim_output\\isometric\\1\\pCa_52_results.txt",
+                "output_handler_file": "sim_input\\1\\isometric\\pCa_52\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isometric\\pCa_50\\prot.txt",
+                "results_file": "sim_output\\isometric\\1\\pCa_50_results.txt",
+                "output_handler_file": "sim_input\\1\\isometric\\pCa_50\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isometric\\pCa_46\\prot.txt",
+                "results_file": "sim_output\\isometric\\1\\pCa_46_results.txt",
+                "output_handler_file": "sim_input\\1\\isometric\\pCa_46\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isometric\\pCa_80\\prot.txt",
+                "results_file": "sim_output\\isometric\\2\\pCa_80_results.txt",
+                "output_handler_file": "sim_input\\2\\isometric\\pCa_80\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isometric\\pCa_64\\prot.txt",
+                "results_file": "sim_output\\isometric\\2\\pCa_64_results.txt",
+                "output_handler_file": "sim_input\\2\\isometric\\pCa_64\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isometric\\pCa_62\\prot.txt",
+                "results_file": "sim_output\\isometric\\2\\pCa_62_results.txt",
+                "output_handler_file": "sim_input\\2\\isometric\\pCa_62\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isometric\\pCa_60\\prot.txt",
+                "results_file": "sim_output\\isometric\\2\\pCa_60_results.txt",
+                "output_handler_file": "sim_input\\2\\isometric\\pCa_60\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isometric\\pCa_58\\prot.txt",
+                "results_file": "sim_output\\isometric\\2\\pCa_58_results.txt",
+                "output_handler_file": "sim_input\\2\\isometric\\pCa_58\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isometric\\pCa_56\\prot.txt",
+                "results_file": "sim_output\\isometric\\2\\pCa_56_results.txt",
+                "output_handler_file": "sim_input\\2\\isometric\\pCa_56\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isometric\\pCa_54\\prot.txt",
+                "results_file": "sim_output\\isometric\\2\\pCa_54_results.txt",
+                "output_handler_file": "sim_input\\2\\isometric\\pCa_54\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isometric\\pCa_52\\prot.txt",
+                "results_file": "sim_output\\isometric\\2\\pCa_52_results.txt",
+                "output_handler_file": "sim_input\\2\\isometric\\pCa_52\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isometric\\pCa_50\\prot.txt",
+                "results_file": "sim_output\\isometric\\2\\pCa_50_results.txt",
+                "output_handler_file": "sim_input\\2\\isometric\\pCa_50\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isometric\\pCa_46\\prot.txt",
+                "results_file": "sim_output\\isometric\\2\\pCa_46_results.txt",
+                "output_handler_file": "sim_input\\2\\isometric\\pCa_46\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isometric\\pCa_80\\prot.txt",
+                "results_file": "sim_output\\isometric\\3\\pCa_80_results.txt",
+                "output_handler_file": "sim_input\\3\\isometric\\pCa_80\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isometric\\pCa_64\\prot.txt",
+                "results_file": "sim_output\\isometric\\3\\pCa_64_results.txt",
+                "output_handler_file": "sim_input\\3\\isometric\\pCa_64\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isometric\\pCa_62\\prot.txt",
+                "results_file": "sim_output\\isometric\\3\\pCa_62_results.txt",
+                "output_handler_file": "sim_input\\3\\isometric\\pCa_62\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isometric\\pCa_60\\prot.txt",
+                "results_file": "sim_output\\isometric\\3\\pCa_60_results.txt",
+                "output_handler_file": "sim_input\\3\\isometric\\pCa_60\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isometric\\pCa_58\\prot.txt",
+                "results_file": "sim_output\\isometric\\3\\pCa_58_results.txt",
+                "output_handler_file": "sim_input\\3\\isometric\\pCa_58\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isometric\\pCa_56\\prot.txt",
+                "results_file": "sim_output\\isometric\\3\\pCa_56_results.txt",
+                "output_handler_file": "sim_input\\3\\isometric\\pCa_56\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isometric\\pCa_54\\prot.txt",
+                "results_file": "sim_output\\isometric\\3\\pCa_54_results.txt",
+                "output_handler_file": "sim_input\\3\\isometric\\pCa_54\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isometric\\pCa_52\\prot.txt",
+                "results_file": "sim_output\\isometric\\3\\pCa_52_results.txt",
+                "output_handler_file": "sim_input\\3\\isometric\\pCa_52\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isometric\\pCa_50\\prot.txt",
+                "results_file": "sim_output\\isometric\\3\\pCa_50_results.txt",
+                "output_handler_file": "sim_input\\3\\isometric\\pCa_50\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isometric\\pCa_46\\prot.txt",
+                "results_file": "sim_output\\isometric\\3\\pCa_46_results.txt",
+                "output_handler_file": "sim_input\\3\\isometric\\pCa_46\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isometric\\pCa_80\\prot.txt",
+                "results_file": "sim_output\\isometric\\4\\pCa_80_results.txt",
+                "output_handler_file": "sim_input\\4\\isometric\\pCa_80\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isometric\\pCa_64\\prot.txt",
+                "results_file": "sim_output\\isometric\\4\\pCa_64_results.txt",
+                "output_handler_file": "sim_input\\4\\isometric\\pCa_64\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isometric\\pCa_62\\prot.txt",
+                "results_file": "sim_output\\isometric\\4\\pCa_62_results.txt",
+                "output_handler_file": "sim_input\\4\\isometric\\pCa_62\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isometric\\pCa_60\\prot.txt",
+                "results_file": "sim_output\\isometric\\4\\pCa_60_results.txt",
+                "output_handler_file": "sim_input\\4\\isometric\\pCa_60\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isometric\\pCa_58\\prot.txt",
+                "results_file": "sim_output\\isometric\\4\\pCa_58_results.txt",
+                "output_handler_file": "sim_input\\4\\isometric\\pCa_58\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isometric\\pCa_56\\prot.txt",
+                "results_file": "sim_output\\isometric\\4\\pCa_56_results.txt",
+                "output_handler_file": "sim_input\\4\\isometric\\pCa_56\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isometric\\pCa_54\\prot.txt",
+                "results_file": "sim_output\\isometric\\4\\pCa_54_results.txt",
+                "output_handler_file": "sim_input\\4\\isometric\\pCa_54\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isometric\\pCa_52\\prot.txt",
+                "results_file": "sim_output\\isometric\\4\\pCa_52_results.txt",
+                "output_handler_file": "sim_input\\4\\isometric\\pCa_52\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isometric\\pCa_50\\prot.txt",
+                "results_file": "sim_output\\isometric\\4\\pCa_50_results.txt",
+                "output_handler_file": "sim_input\\4\\isometric\\pCa_50\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isometric\\pCa_46\\prot.txt",
+                "results_file": "sim_output\\isometric\\4\\pCa_46_results.txt",
+                "output_handler_file": "sim_input\\4\\isometric\\pCa_46\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isotonic\\0\\prot.txt",
+                "results_file": "sim_output\\isotonic\\1\\iso_0_results.txt",
+                "output_handler_file": "sim_input\\1\\isotonic\\0\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isotonic\\1\\prot.txt",
+                "results_file": "sim_output\\isotonic\\1\\iso_1_results.txt",
+                "output_handler_file": "sim_input\\1\\isotonic\\1\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isotonic\\2\\prot.txt",
+                "results_file": "sim_output\\isotonic\\1\\iso_2_results.txt",
+                "output_handler_file": "sim_input\\1\\isotonic\\2\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isotonic\\3\\prot.txt",
+                "results_file": "sim_output\\isotonic\\1\\iso_3_results.txt",
+                "output_handler_file": "sim_input\\1\\isotonic\\3\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isotonic\\4\\prot.txt",
+                "results_file": "sim_output\\isotonic\\1\\iso_4_results.txt",
+                "output_handler_file": "sim_input\\1\\isotonic\\4\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isotonic\\5\\prot.txt",
+                "results_file": "sim_output\\isotonic\\1\\iso_5_results.txt",
+                "output_handler_file": "sim_input\\1\\isotonic\\5\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isotonic\\6\\prot.txt",
+                "results_file": "sim_output\\isotonic\\1\\iso_6_results.txt",
+                "output_handler_file": "sim_input\\1\\isotonic\\6\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isotonic\\7\\prot.txt",
+                "results_file": "sim_output\\isotonic\\1\\iso_7_results.txt",
+                "output_handler_file": "sim_input\\1\\isotonic\\7\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isotonic\\8\\prot.txt",
+                "results_file": "sim_output\\isotonic\\1\\iso_8_results.txt",
+                "output_handler_file": "sim_input\\1\\isotonic\\8\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\1\\model_1.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\1\\isotonic\\9\\prot.txt",
+                "results_file": "sim_output\\isotonic\\1\\iso_9_results.txt",
+                "output_handler_file": "sim_input\\1\\isotonic\\9\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isotonic\\0\\prot.txt",
+                "results_file": "sim_output\\isotonic\\2\\iso_0_results.txt",
+                "output_handler_file": "sim_input\\2\\isotonic\\0\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isotonic\\1\\prot.txt",
+                "results_file": "sim_output\\isotonic\\2\\iso_1_results.txt",
+                "output_handler_file": "sim_input\\2\\isotonic\\1\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isotonic\\2\\prot.txt",
+                "results_file": "sim_output\\isotonic\\2\\iso_2_results.txt",
+                "output_handler_file": "sim_input\\2\\isotonic\\2\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isotonic\\3\\prot.txt",
+                "results_file": "sim_output\\isotonic\\2\\iso_3_results.txt",
+                "output_handler_file": "sim_input\\2\\isotonic\\3\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isotonic\\4\\prot.txt",
+                "results_file": "sim_output\\isotonic\\2\\iso_4_results.txt",
+                "output_handler_file": "sim_input\\2\\isotonic\\4\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isotonic\\5\\prot.txt",
+                "results_file": "sim_output\\isotonic\\2\\iso_5_results.txt",
+                "output_handler_file": "sim_input\\2\\isotonic\\5\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isotonic\\6\\prot.txt",
+                "results_file": "sim_output\\isotonic\\2\\iso_6_results.txt",
+                "output_handler_file": "sim_input\\2\\isotonic\\6\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isotonic\\7\\prot.txt",
+                "results_file": "sim_output\\isotonic\\2\\iso_7_results.txt",
+                "output_handler_file": "sim_input\\2\\isotonic\\7\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isotonic\\8\\prot.txt",
+                "results_file": "sim_output\\isotonic\\2\\iso_8_results.txt",
+                "output_handler_file": "sim_input\\2\\isotonic\\8\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\2\\model_2.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\2\\isotonic\\9\\prot.txt",
+                "results_file": "sim_output\\isotonic\\2\\iso_9_results.txt",
+                "output_handler_file": "sim_input\\2\\isotonic\\9\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isotonic\\0\\prot.txt",
+                "results_file": "sim_output\\isotonic\\3\\iso_0_results.txt",
+                "output_handler_file": "sim_input\\3\\isotonic\\0\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isotonic\\1\\prot.txt",
+                "results_file": "sim_output\\isotonic\\3\\iso_1_results.txt",
+                "output_handler_file": "sim_input\\3\\isotonic\\1\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isotonic\\2\\prot.txt",
+                "results_file": "sim_output\\isotonic\\3\\iso_2_results.txt",
+                "output_handler_file": "sim_input\\3\\isotonic\\2\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isotonic\\3\\prot.txt",
+                "results_file": "sim_output\\isotonic\\3\\iso_3_results.txt",
+                "output_handler_file": "sim_input\\3\\isotonic\\3\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isotonic\\4\\prot.txt",
+                "results_file": "sim_output\\isotonic\\3\\iso_4_results.txt",
+                "output_handler_file": "sim_input\\3\\isotonic\\4\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isotonic\\5\\prot.txt",
+                "results_file": "sim_output\\isotonic\\3\\iso_5_results.txt",
+                "output_handler_file": "sim_input\\3\\isotonic\\5\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isotonic\\6\\prot.txt",
+                "results_file": "sim_output\\isotonic\\3\\iso_6_results.txt",
+                "output_handler_file": "sim_input\\3\\isotonic\\6\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isotonic\\7\\prot.txt",
+                "results_file": "sim_output\\isotonic\\3\\iso_7_results.txt",
+                "output_handler_file": "sim_input\\3\\isotonic\\7\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isotonic\\8\\prot.txt",
+                "results_file": "sim_output\\isotonic\\3\\iso_8_results.txt",
+                "output_handler_file": "sim_input\\3\\isotonic\\8\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\3\\model_3.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\3\\isotonic\\9\\prot.txt",
+                "results_file": "sim_output\\isotonic\\3\\iso_9_results.txt",
+                "output_handler_file": "sim_input\\3\\isotonic\\9\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isotonic\\0\\prot.txt",
+                "results_file": "sim_output\\isotonic\\4\\iso_0_results.txt",
+                "output_handler_file": "sim_input\\4\\isotonic\\0\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isotonic\\1\\prot.txt",
+                "results_file": "sim_output\\isotonic\\4\\iso_1_results.txt",
+                "output_handler_file": "sim_input\\4\\isotonic\\1\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isotonic\\2\\prot.txt",
+                "results_file": "sim_output\\isotonic\\4\\iso_2_results.txt",
+                "output_handler_file": "sim_input\\4\\isotonic\\2\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isotonic\\3\\prot.txt",
+                "results_file": "sim_output\\isotonic\\4\\iso_3_results.txt",
+                "output_handler_file": "sim_input\\4\\isotonic\\3\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isotonic\\4\\prot.txt",
+                "results_file": "sim_output\\isotonic\\4\\iso_4_results.txt",
+                "output_handler_file": "sim_input\\4\\isotonic\\4\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isotonic\\5\\prot.txt",
+                "results_file": "sim_output\\isotonic\\4\\iso_5_results.txt",
+                "output_handler_file": "sim_input\\4\\isotonic\\5\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isotonic\\6\\prot.txt",
+                "results_file": "sim_output\\isotonic\\4\\iso_6_results.txt",
+                "output_handler_file": "sim_input\\4\\isotonic\\6\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isotonic\\7\\prot.txt",
+                "results_file": "sim_output\\isotonic\\4\\iso_7_results.txt",
+                "output_handler_file": "sim_input\\4\\isotonic\\7\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isotonic\\8\\prot.txt",
+                "results_file": "sim_output\\isotonic\\4\\iso_8_results.txt",
+                "output_handler_file": "sim_input\\4\\isotonic\\8\\output_handler.json"
+            },
+            {
+                "relative_to": "this_file",
+                "model_file": "sim_input\\4\\model_4.json",
+                "options_file": "sim_input\\sim_options.json",
+                "protocol_file": "sim_input\\4\\isotonic\\9\\prot.txt",
+                "results_file": "sim_output\\isotonic\\4\\iso_9_results.txt",
+                "output_handler_file": "sim_input\\4\\isotonic\\9\\output_handler.json"
+            }
+        ],
+        "batch_figures":
+        {
+            "pCa_curves":
+            [
+                {
+                    "relative_to": "this_file",
+                    "results_folder": "sim_output/isometric",
+                    "data_field": "force",
+                    "output_image_file_string": "sim_output/isometric/force_pCa_curves.png",
+                    "output_data_file_string": "sim_output/isometric/analysis.xlsx",
+                    "formatting":
+                    {
+                        "y_scaling_factor": 0.001,
+                        "y_axis_label": "Force\n(kN m$\\mathregular{^{-2}}$)"
+                    }
+                }
+            ],
+            "force_velocity":
+            [
+                {
+                    "relative_to": "this_file",
+                    "results_folder": "sim_output/isotonic",
+                    "fit_time_interval_s": [0.21, 0.29],
+                    "output_image_file_string": "sim_output/isotonic/fvand_power.png",
+                    "output_data_file_string": "sim_output/isotonic/analysis.xlsx"
+                }
+            ]
+        }
+    }
+}
